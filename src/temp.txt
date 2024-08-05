@@ -1,0 +1,13 @@
+Log установки:
+Каталог g:/Мой диск/Games/src создан.
+Каталог g:/Мой диск/Games/res создан.
+Каталог g:/Мой диск/Games/savegames создан.
+Каталог g:/Мой диск/Games/temp создан.
+Каталог g:/Мой диск/Games/src/main создан.
+Каталог g:/Мой диск/Games/src/test создан.
+Файл Main.java создан.
+Файл Util.java создан.
+Каталог g:/Мой диск/Games/res/drawables создан.
+Каталог g:/Мой диск/Games/res/vectors создан.
+Каталог g:/Мой диск/Games/res/icons создан.
+Файл temp.txt создан.
