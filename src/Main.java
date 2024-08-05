@@ -30,7 +30,7 @@ public class Main {
             bufferedWriter.write(logFile.toString());
             bufferedWriter.close();
         } catch (IOException e) {
-            System.out.println("Ошибка записи в файл!");
+            //System.out.println("Ошибка записи в файл!");
             //e.printStackTrace();
             System.out.println(e.getMessage());
         }
@@ -46,7 +46,7 @@ public class Main {
                 return "\nФайл " + fileName + " уже существует.";
             }
         } catch (IOException e) {
-            System.out.println("Ошибка при создании файла!");
+            //System.out.println("Ошибка при создании файла!");
             //e.printStackTrace();
             System.out.println(e.getMessage());
         }
